@@ -1,2 +1,2 @@
-# hello-world
-the beginning of the github adventure.  Learning what I can in memory of David G. 
+# Digital Garden
+Repos, Codes, apps and all things Tech.
